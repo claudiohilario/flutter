@@ -30,3 +30,11 @@ flutter precache --all-platforms
 ```
 flutter create my_app_name
 ```
+
+
+```
+flutter create my_app_name
+cd first_app
+
+flutter run
+```
